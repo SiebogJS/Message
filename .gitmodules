@@ -1,0 +1,6 @@
+[submodule "lib/Cluster"]
+	path = lib/Cluster
+	url = https://github.com/SiebogJS/Cluster.git
+[submodule "lib/AgentManager"]
+	path = lib/AgentManager
+	url = https://github.com/SiebogJS/AgentManager.git
